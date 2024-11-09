@@ -1,14 +1,21 @@
+```
+ ███████╗  █████╗  ██╗       ██████╗
+ ╚══███╔╝ ██╔══██╗ ██║      ██╔════╝
+   ███╔╝  ███████║ ██║      ██║
+  ███╔╝   ██╔══██║ ██║      ██║
+ ███████╗ ██║  ██║ ███████╗ ╚██████╗
+ ╚══════╝ ╚═╝  ╚═╝ ╚══════╝  ╚═════╝
+```
+
 # ZALC
 
 A small zig calculator, inspired by [qalc](https://github.com/Qalculate/libqalculate)
 
 ## Installation
 
-## Build Dependencies
+Ensure that you have `zig` installed.
 
-You just need `zig` installed
-
-Simply clone the repo and build it with `zig`.
+Then simply clone the repo and build it with `zig`.
 
 ```sh
 git clone https://github.com/AtleSkaanes/zalc
